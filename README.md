@@ -17,4 +17,6 @@ Now if you get some errors :<br>
 you can do one important thing is <br>
  install python version 3.6  <br>
  
+ You can read all the steps to be followed from my BLOG here:<br>
+ https://gullayeshwantkumarruler.medium.com/creating-a-simple-bank-management-system-using-python-8ff0f08e0584
  
